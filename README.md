@@ -103,7 +103,7 @@ Review:
 
 # Step 5: Timeline Setup 
 
-Now if we look to the bottom right in the timeline box you will see it's empty.
+Now if we look to the bottom right in the TIMELINE box you will see it's empty.
 
 ### We need to create a sequence to start editing our footage!
 
