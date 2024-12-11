@@ -1,7 +1,7 @@
 # How to Edit a Digital Video (Premiere Pro)
 ## Written by Colton Sharp
 
-The purpose of this tutorial is to introduce an easy step-by-step guide to editing a digital video you have captured on your phone/camera. This is a beginner-level tutorial covering concepts that include setting up your project, sequence settings, managing your footage, timeline basics, rendering, and finally exporting your video. This tutorial will not cover advanced concepts like effects, effect controls, sound design, etc. This tutorial is open to anyone looking to get started in Adobe: Premiere Pro or anyone who wants to pursue a career in film or video editing. 
+The purpose of this tutorial is to introduce an easy step-by-step guide to editing a digital video you have captured on your phone/camera. This is a beginner-level tutorial covering concepts that include setting up your project, sequence settings, managing your footage, timeline basics, and finally exporting your video. This tutorial will not cover advanced concepts like effects, effect controls, sound design, etc. This tutorial is open to anyone looking to get started in Adobe: Premiere Pro or anyone who wants to pursue a career in film or video editing. 
 
 # Step 1: Download Premiere Pro 
 
@@ -136,22 +136,22 @@ On the top of the timeline workspace will be a ruler with timestamps. Clicking i
 
 ## Important Commands:
 
-C + CMD/CTRL = copy
-V + CMD/CTRL = paste
-X + CMD/CTRL = delete 
+* C + CMD/CTRL = copy
+* V + CMD/CTRL = paste
+* X + CMD/CTRL = delete
 
-Z + CMD/CTRL = undo
-Z + CMD/CTRL + Shift = redo
+* Z + CMD/CTRL = undo
+* Z + CMD/CTRL + Shift = redo
 
-A + CMD/CTRL = Select All
+* A + CMD/CTRL = Select All
 
-S + CMD/CTRL = save
-I + CMD/CTRL = import
+* S + CMD/CTRL = save
+* I + CMD/CTRL = import
 
-Space = Pause/Play
+* Space = Pause/Play
 
-X = Select
-K + CMD/CTRL = split
+* X = Select
+* K + CMD/CTRL = split
 
 ### Spend some time playing with these commands to see how you can manipulate/change/edit the footage you dropped in the timeline.
 
@@ -169,6 +169,47 @@ If you hover your mouse over the wall of the file a bracket will take the place 
 
 ## GOAL: Edit a reel of the footage using commands and your mouse. There doesn't need to be a specific length, added effects, or meaning to this reel. Just play around then when you are ready we will go to the final step which is exporting!
 
+# Step 7: Export 
 
+Once you have edited a reel that you feel comfortable with we will start the exporting process.
+
+There are TWO ways to quick export in Premiere Pro:
+
+### 1. If you click file in the top left of the application a drop down menu will appear. Navigate to Export -> Media.., then you will get redirected to the export page.
+
+In the middle of the screen you will see the export settings workspace and on the right is the export preview workspace. Like previous steps we will ignore most of the settings except for the File Name, Location, Preset and Format!
+
+Take some time to look at your reel in the preview workspace.
+
+### 2. In the top right of the Edit Page, the area we were in throughout this guide, there is a BOX with an arrow pointing out the top. This is the QUICK EXPORT Button. You can quickly change the file name, location and preset here.
+
+### THERE IS NOT DIFFERENCE when it comes to quick exporting or exporing from the export page.
+
+Give your reel a custom name and export location. The export location is very important as it will keep files organized.
+
+Presets are quite interchangble depending on the resolution you want your footage to be exported at. The key is to learn what resolution your camera/phone records in as this is the resolution you want to export at. 
+
+A great preset to use is 'Match Source - Adaptive High Bitrate'. If you are unsure. This preset will match the resolution and bitrate to the footage at the start of the timeline. Or in other words the sequence settings established after dropping a video in the timeline.
+
+* If 4k footage was the first video file but the rest is 1080p. The video will be exported at 4k
+* If 1080p footage was the first video file but the rest is 4k. The video will be exported at 1080p
+
+FORMAT is important but... most of the time you will use H.264. Very RARE occurences will need for you to change the format.
+
+After selecting the file name, loction, and preset click the blue 'EXPORT' button in the bottom right of the export page or on the quick export tab.
+
+The time it takes to export will be determined mainly by the hardware in your system. Projects can take seconds or hours depending on the project/hardware.
+
+After completion watch your reel and enjoy!! You have edited your first digital video!
+
+# Final Notes
+
+That concludes this tutorial. This might have been extremely easy or overwelming! Just remeber that applications like this take time. You will learn as you edit. The more projects you do the more your efficiency will improve along will discovering many tools and effects that can expand your projects. 
+
+One of these is RENDERING. Rendering is important but not necessary for this tutorial. It will improve processing speed and smooth playback while editing. I recommend looking up videos online to explain HOW TO RENDER on Premiere Pro.
+
+If you ever get stuck a quick search on Google or Youtube will be your hero. There are several great people that have created guides to help imporve your editing experince!
+
+Good luck in your editing journey!
 
 
