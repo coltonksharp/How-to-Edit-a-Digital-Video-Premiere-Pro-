@@ -107,7 +107,7 @@ Now if we look to the bottom right in the TIMELINE box you will see it's empty.
 
 ### We need to create a sequence to start editing our footage!
 
-Real quick, I want to show you how to make a custom sequence in the timeline. Go back to the Project Panel and on the bottom left of the box; click on what looks like a sticky note. A list will pop up and at the top will be 'sequence'. Click 'sequence'.
+Real quick, I want to show you how to make a custom sequence in the timeline. Go back to the Project Panel and on the bottom right of the box; click on what looks like a sticky note. A list will pop up and at the top will be 'sequence'. Click 'sequence'.
 
 Here you can create a sequence with your desired preset, settings, etc. HOWEVER, this is advanced! You will learn how to utilize this later.
 
