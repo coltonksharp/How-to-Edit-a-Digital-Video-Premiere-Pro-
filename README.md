@@ -59,7 +59,7 @@ When your project opens it will open up the editing tab by default. On this tab 
 
 ### This will be overwelming at first but have trust in me and don't touch anything!
 
-The defualt window is divided into four workspaces. 
+The defualt window is divided into FOUR workspaces. 
 
 Top left: Effect Controls (Click on 'Effect Controls' in the box if not opened by default)
 Top Right: Program Monitor 
@@ -78,6 +78,49 @@ I will not go over every workspace. Workspaces can be added and removed. For now
 
 ### For this tutorial we will focus mainly on the PROJECT PANEL and TIMELINE 
 
+# Step 4: Importing Video File(s)
 
+For this step we will look at the PROJECT PANEL in the bottom left of the screen.
+
+Located in the center you will see a big blue button that reads: "Import media" 
+
+### Click 'Import Media'
+
+Your file manager will now open. 
+
+### Select 2-3 video files to import into the project.
+
+After importing, your footage will now be in the workspace. 
+
+### To import more footage: Right-click and select 'Import...' 
+
+Note: If you do not have footage and used Adobe's footage you will not see the import button. The footage will already be in the workspace.
+
+Review:
+1. Travel to your Project Panel in the bottom left box of the application
+2. Click 'Import media'
+3. Select 2-3 video files from your project manager
+
+# Step 5: Timeline Setup 
+
+Now if we look to the bottom right in the timeline box you will see it's empty.
+
+### We need to create a sequence to start editing our footage!
+
+Real quick, I want to show you how to make a custom sequence in the timeline. Go back to the Project Panel and on the bottom left of the box; click on what looks like a sticky note. A list will pop up and at the top will be 'sequence'. Click 'sequence'.
+
+Here you can create a sequence with your desired preset, settings, etc. HOWEVER, this is advanced! You will learn how to utilize this later.
+
+### Instead
+
+We are going to close this window. From your PROJECT PANEL; click and drag a video file that you imported into the TIMELINE box on the bottom right. You will see your timeline now fill with tracks and the video file will now be in video/audio tracks: V1 and A2.
+
+### This is very useful because...
+
+When you drag and drop, Adobe will autoatically create and adjust your timeline based on your footage. You won't have to worry about "finding the right settings" at this moment. Custom timelines are important for advanced users when multiple cameras or sequences are used in a single project. 
+
+Review:
+1. Go to the Project Panel on the bottom left. 
+2. Click and drag a video file from the Project Panel to the Timeline workspace.
 
 
