@@ -34,7 +34,7 @@ On the left side of the screen, you will see two buttons:
 
 NEW PROJECT and OPEN PROJECT
 
-### Click NEW PROJECT
+### Click 'NEW PROJECT'
 
 A new window will pop up asking for the project name, location, and template.
 
@@ -44,7 +44,7 @@ Ignore templates for now. On WINDOWS you will see Import settings on the right a
 
 UNLESS you don't have footage. If you don't have footage that's okay. Simply check the boxes on 2-3 videos that adobe provides and they will be imported into your project.
 
-### Click 'CREATE' in the bottom right corner after editing. 
+### Click 'CREATE' in the bottom right corner.
 
 Review: 
 1. Click 'NEW PROJECT'
@@ -53,6 +53,30 @@ Review:
 4. Import Adobe's footage (optional)
 5. Click 'Create'
 
+# Step 3: Project Setup and Timeline
+
+When your project opens it will open up the editing tab by default. On this tab there will be several windows called "Workspaces". 
+
+### This will be overwelming at first but have trust in me and don't touch anything. 
+
+The defualt window is divided into four workspaces. 
+
+Top left: Effect Controls (Click on 'Effect Controls' in the box if not opened by default)
+Top Right: Program Monitor 
+Bottom Left: Project Panel 
+Bottom Right: Timeline
+
+I will not go over every workspace. Workspaces can be added and removed. For now it's best to not make any changes.
+
+The EFFECT CONTROLS panel is where you can manipluate effects for your selected video file in the timeline.
+
+The PROGRAM MONITOR is how you review your project(video) during the editing process.
+
+The PROJECT PANEL is where you can manage project files or detials.
+
+The TIMELINE is where you can add and manipulate footage.
+
+### For this tutorial we will focus mainly on the PROJECT PANEL and TIMELINE 
 
 
 
