@@ -53,11 +53,11 @@ Review:
 4. Import Adobe's footage (optional)
 5. Click 'Create'
 
-# Step 3: Project Setup and Timeline
+# Step 3: Workspace
 
 When your project opens it will open up the editing tab by default. On this tab there will be several windows called "Workspaces". 
 
-### This will be overwelming at first but have trust in me and don't touch anything. 
+### This will be overwelming at first but have trust in me and don't touch anything!
 
 The defualt window is divided into four workspaces. 
 
@@ -68,13 +68,13 @@ Bottom Right: Timeline
 
 I will not go over every workspace. Workspaces can be added and removed. For now it's best to not make any changes.
 
-The EFFECT CONTROLS panel is where you can manipluate effects for your selected video file in the timeline.
+* The EFFECT CONTROLS panel is where you can manipluate effects for your selected video file in the timeline
 
-The PROGRAM MONITOR is how you review your project(video) during the editing process.
+* The PROGRAM MONITOR is how you review your project(video) during the editing process
 
-The PROJECT PANEL is where you can manage project files or detials.
+* The PROJECT PANEL is where you can manage project files or detials
 
-The TIMELINE is where you can add and manipulate footage.
+* The TIMELINE is where you can add and manipulate footage
 
 ### For this tutorial we will focus mainly on the PROJECT PANEL and TIMELINE 
 
