@@ -34,7 +34,7 @@ On the left side of the screen, you will see two buttons:
 
 NEW PROJECT and OPEN PROJECT
 
-** Click NEW PROJECT **
+### Click NEW PROJECT
 
 A new window will pop up asking for the project name, location, and template.
 
@@ -44,13 +44,13 @@ Ignore templates for now. On WINDOWS you will see Import settings on the right a
 
 UNLESS you don't have footage. If you don't have footage that's okay. Simply check the boxes on 2-3 videos that adobe provides and they will be imported into your project.
 
-** Click 'CREATE' in the bottom right corner after editing. **
+### Click 'CREATE' in the bottom right corner after editing. 
 
 Review: 
-1. Click 'NEW PORJECT'
-2. Give the poject a name
+1. Click 'NEW PROJECT'
+2. Give the project a name
 3. Select the project location
-4. Import Adobe's footage (If needed)
+4. Import Adobe's footage (optional)
 5. Click 'Create'
 
 
