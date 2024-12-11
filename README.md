@@ -123,4 +123,52 @@ Review:
 1. Go to the Project Panel on the bottom left. 
 2. Click and drag a video file from the Project Panel to the Timeline workspace.
 
+# Step 6: Edit
+
+### In this step there won't be a step-by-step process, but instead a guide on how to explore and edit in the timeline.
+
+Go ahead and drag the rest of the footage into your timeline. For this step we will mess around with the footage to understand how the timeline works.
+
+You will notice that each file will connect to eachother like lego bricks. They can even stack!
+Footage can be moved in the timeline by clicking and draging the file around the tracks.
+
+On the top of the timeline workspace will be a ruler with timestamps. Clicking in here will change to a different point in your timeline. You can also click and drag. 
+
+## Important Commands:
+
+C + CMD/CTRL = copy
+V + CMD/CTRL = paste
+X + CMD/CTRL = delete 
+
+Z + CMD/CTRL = undo
+Z + CMD/CTRL + Shift = redo
+
+A + CMD/CTRL = Select All
+
+S + CMD/CTRL = save
+I + CMD/CTRL = import
+
+Space = Pause/Play
+
+X = Select
+K + CMD/CTRL = split
+
+### Spend some time playing with these commands to see how you can manipulate/change/edit the footage you dropped in the timeline.
+
+## Mouse Actions: 
+
+* Drag & Drop
+* Drag & Stack
+* Cut (Right-click)
+* Copy (Right-click)
+* Adjust Speed (Right-click)
+
+Looking at each file in the timeline, you will see that each one has two side walls. A left and right vertical wall. A head and foot. A start and end. 
+
+If you hover your mouse over the wall of the file a bracket will take the place of your mouse icon. Clicking and dragging left or right can cut(adjust) the footage to a shorter length. If you cut too much you can alway extend the footage back or use the UNDO command. 
+
+## GOAL: Edit a reel of the footage using commands and your mouse. There doesn't need to be a specific length, added effects, or meaning to this reel. Just play around then when you are ready we will go to the final step which is exporting!
+
+
+
 
